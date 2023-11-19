@@ -1,0 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DuongTGMXSADCAT/Windless-Hub/main/WINDLESSHUB.txt"))()
+if game.PlaceId == 6677985923 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DuongTGMXSADCAT/Windless-Hub/main/Tycoon"))()
+end
