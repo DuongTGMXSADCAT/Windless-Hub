@@ -3,4 +3,6 @@ if game.PlaceId == 6677985923 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DuongTGMXSADCAT/Windless-Hub/main/Tycoon"))()
 elseif game.PlaceId == 15019306302 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DuongTGMXSADCAT/Windless-Hub/main/Anime"))()
+elseif game.PlaceId == 13370783664 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DuongTGMXSADCAT/Windless-Hub/main/Anime2.lua"))()
 end
