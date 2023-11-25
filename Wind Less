@@ -5,4 +5,6 @@ elseif game.PlaceId == 15019306302 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DuongTGMXSADCAT/Windless-Hub/main/Anime"))()
 elseif game.PlaceId == 13370783664 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DuongTGMXSADCAT/Windless-Hub/main/Anime2.lua"))()
+elseif game.PlaceId == 13772394625 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DuongTGMXSADCAT/Windless-Hub/main/Blade%20Ball.txt"))()
 end
